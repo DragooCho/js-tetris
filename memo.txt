@@ -1,0 +1,12 @@
+출처
+https://ui.toast.com/weekly-pick/ko_20191216
+
+
+constants.js는 게임 설정과 규칙을 정의한다.
+board.js는 보드 로직 파일이다.
+piece.js는 테트리스 조각 로직 파일이다.
+main.js은 게임 초기화와 종료 로직 코드를 가진다.
+index.html에서 하단에 추가하는 스크립트의 순서는 중요하다.
+styles.css에 모든 스타일이 있다.
+README.md는 마크다운 파일로, 리포지터리의 첫 번째 페이지다.
+
