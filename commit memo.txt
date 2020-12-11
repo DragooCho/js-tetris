@@ -5,7 +5,7 @@ git push origin master
 
 
 git add .
-git commit -m "#5 CONCLUSIONS end"
+git commit -m "commit start"
 git push -u origin main
 
 rm -rf 지울폴더
