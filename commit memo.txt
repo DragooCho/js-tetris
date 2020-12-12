@@ -5,7 +5,7 @@ git push origin master
 
 
 git add .
-git commit -m "commit start"
+git commit -m "add commit"
 git push -u origin main
 
 rm -rf 지울폴더
